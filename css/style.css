@@ -18,7 +18,7 @@ html{
     font-size: 18px;
     background: var(--white-color);
     overscroll-behaviour-x:none;
-    overflow-y:hidden;
+    overflow-x:hidden;
 }
 body{
     background: var(--white-color);
