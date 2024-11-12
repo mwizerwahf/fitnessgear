@@ -17,8 +17,7 @@ html{
     font-family: var(--font-family);
     font-size: 18px;
     background: var(--white-color);
-    overscroll-behaviour-x:none;
-    overflow-x:hidden;
+    
 }
 body{
     background: var(--white-color);
@@ -231,6 +230,7 @@ footer .ft3 .contact-item p{
         /* overflow-x:hidden; */
         /* position: relative; */
     /* } */
+    
     .navigation .nav-item{
         position: static;
         display: none;
